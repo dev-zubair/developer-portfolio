@@ -47,6 +47,9 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
 }
+.experiences-area h1{
+    margin-left: 5%;
+}
 h2{
     font-size: 40px;
 }
